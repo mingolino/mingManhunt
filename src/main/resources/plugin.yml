@@ -1,0 +1,42 @@
+name: "mingManhunt"
+version: "1.0"
+main: "vb.$mingmanhunt.PluginMain"
+api-version: 1.13
+authors: [mingolino]
+description: "A manhunt plugin. Faster. Better."
+softdepend: ["Multiverse-Core", "Multiverse-Portals"]
+commands:
+  multicreate:
+    permission: "*"
+  multidelete:
+    permission: "*"
+  multiregen:
+    permission: "*"
+  settings:
+    permission: "*"
+  start:
+    description: "Starts the manhunt."
+    permission: "*"
+  hunter:
+    description: "Join the hunter's team."
+  runner:
+    description: "Join the runner's team."
+  spectator:
+    description: "Join the spectator's team."
+  pause:
+    description: "Pause the manhunt."
+    permission: "*"
+  unpause:
+    description: "Resume the manhunt."
+    permission: "*"
+  regen:
+    aliases: [re]
+    description: "Regenerates a brand new world for a new game."
+    permission: "*"
+  disableflight:
+    permission: "*"
+  nearspawn:
+    permission: "*"
+  testofflineplayers:
+    permission: "*"
+permissions:
