@@ -86,3 +86,18 @@ Have suggestions or want to help improve the plugin?
 - Submit an [issue](https://github.com/mingolino/mingManhunt/issues)
 - Open a pull request!
 
+---
+
+## 📄 License
+
+This plugin is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+For more details, see the full license text in the LICENSE file.
